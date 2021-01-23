@@ -55,5 +55,7 @@ public class Hangman {
     };
 
     public static void main(String[] args) {	
+    	//readFile("src/main/resources/slowa.txt");
     }
+
 }
